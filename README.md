@@ -365,6 +365,19 @@ Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhut
 
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun “**Deep Residual Learning for Image Recognition**.” Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously [[pdf]](https://arxiv.org/pdf/1512.03385.pdf)
 
+### 4.4 Autoencoders
+
+“**Introduction to autoencoders**” Explains the first part of Chapter 14 Autoencoder [[Link]](https://www.jeremyjordan.me/autoencoders/)
+
+“**Sparse, Stacked and Variational Autoencoder**”[[Link]](https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64)
+
+“**Neural Networks, Manifolds, and Topology**” This article will help in understanding the manifold concept in the same chapter [[Link]](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
+“**Deep Learning Tutorial - Sparse Autoencoder**” Covers mathematics of Autoencoders for better understanding of the error and penalty functions [[Link]](https://mccormickml.com/2014/05/30/deep-learning-tutorial-sparse-autoencoder/)
+
+
+
+
 # 5 General ML/DL/RL concepts
 
 “**An introduction to entropy, cross entropy and KL divergence in machine learning**.” [[Link]](https://adventuresinmachinelearning.com/cross-entropy-kl-divergence/)
