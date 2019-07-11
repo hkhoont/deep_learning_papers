@@ -375,8 +375,15 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun “**Deep Residual Learning fo
 
 “**Deep Learning Tutorial - Sparse Autoencoder**” Covers mathematics of Autoencoders for better understanding of the error and penalty functions [[Link]](https://mccormickml.com/2014/05/30/deep-learning-tutorial-sparse-autoencoder/)
 
+#### 4.4.1 KL Divergence
 
+“**Demystifying KL Divergence**” [[Link]](https://towardsdatascience.com/demystifying-kl-divergence-7ebe4317ee68)
 
+“**Making sense of the Kullback–Leibler (KL) Divergence**”[[Link]](https://medium.com/@cotra.marko/making-sense-of-the-kullback-leibler-kl-divergence-b0d57ee10e0a)
+
+“**Neural Networks, Manifolds, and Topology**” This article will help in understanding the manifold concept in the same chapter [[Link]](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
+“**KL Divergence for Machine Learning**” Advanced level articles highlight KL divergence in Deep learning and Reinforcement learning. It alsp educates about forward and backward KL divergence [[Link]](https://dibyaghosh.com/blog/probability/kldivergence.html)
 
 # 5 General ML/DL/RL concepts
 
