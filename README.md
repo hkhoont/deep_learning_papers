@@ -388,3 +388,7 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun “**Deep Residual Learning fo
 # 5 General ML/DL/RL concepts
 
 “**An introduction to entropy, cross entropy and KL divergence in machine learning**.” [[Link]](https://adventuresinmachinelearning.com/cross-entropy-kl-divergence/)
+
+“**Backpropogation is special case of Langrage Multiplier**.” [[Link]](https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/)
+
+
